@@ -11,6 +11,8 @@
 - Both On-Policy and Off-Policy Monte Carlo learning methods have been implemented.
 - The perfomance of both methods has been analysed in the report.
 - The report also presents the different algorithmic tricks used for efficient practical implementations.
+- The single ipynb file contains code for modelling both the racetrack environment and the agent controling the car.
+- Pygame has been used to visualize the optimal paths that the agent learns.
 
 # How to run:
 ## To run the programme:
